@@ -7,7 +7,7 @@ Compiled and tested on Ubuntu 20.04 with Qt 5.14.2
 ## Installation
 1. Install Qt 5
   - $ sudo apt-get install qt5-default
-2. Open terminal in Qt_Notepad folder and run the following commands
+2. Open terminal in OpenOCRCorrect folder and run the following commands
   - $ qmake qpadfinal.pro
   - $ make
  
