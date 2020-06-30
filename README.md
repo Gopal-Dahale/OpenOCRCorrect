@@ -12,7 +12,7 @@ Compiled and tested on Ubuntu 20.04 with Qt 5.14.2
   - $ make
  
 ## How to run the code?
-To execute the file in Qt_Notepad folder  
+To execute the file in QOpenOCRCorrect folder  
   - $ ./qpadfinal
   
 ## What has been done?
